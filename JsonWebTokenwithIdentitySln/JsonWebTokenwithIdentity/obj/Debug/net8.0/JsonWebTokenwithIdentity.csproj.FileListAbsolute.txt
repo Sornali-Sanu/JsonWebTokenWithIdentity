@@ -168,3 +168,4 @@ C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentit
 C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\obj\Debug\net8.0\JsonWebTokenwithIdentity.pdb
 C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\obj\Debug\net8.0\JsonWebTokenwithIdentity.genruntimeconfig.cache
 C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\obj\Debug\net8.0\ref\JsonWebTokenwithIdentity.dll
+C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\obj\Debug\net8.0\JsonWebTokenwithIdentity.sourcelink.json
