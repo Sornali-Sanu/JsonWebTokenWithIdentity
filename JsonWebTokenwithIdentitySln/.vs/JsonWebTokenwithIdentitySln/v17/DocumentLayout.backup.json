@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\jsonwebtokenwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\jsonwebtokenwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\extensions\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\extensions\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\extensions\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\extensions\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\jsonwebtokenwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\jsonwebtokenwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\migrations\\20251031061431_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,19 +71,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:13:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T06:06:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Services\\TokenService.cs",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Services\\TokenService.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T06:50:09.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ITokenServices.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Interfaces\\ITokenServices.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Interfaces\\ITokenServices.cs",
@@ -88,33 +122,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T06:17:37.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "loginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T06:17:12.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20251031061431_init.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Migrations\\20251031061431_init.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Migrations\\20251031061431_init.cs",
@@ -127,33 +161,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.json",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\appsettings.json",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.json",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-31T06:10:18.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ApplicationServiceExtention.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwDQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T05:20:11.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
@@ -166,20 +200,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "JsonWebTokenwithIdentity.csproj",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-31T05:15:17.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\Appointment.cs",
@@ -192,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\ApplicationUser.cs",
@@ -205,13 +239,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Program.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Program.cs",
               "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Program.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T04:59:49.291Z",
               "EditorCaption": ""
