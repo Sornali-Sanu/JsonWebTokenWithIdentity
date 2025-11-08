@@ -1,4 +1,5 @@
 ﻿using JsonWebTokenwithIdentity.Data;
+using JsonWebTokenwithIdentity.DBIbitializer;
 using JsonWebTokenwithIdentity.Interfaces;
 using JsonWebTokenwithIdentity.Models;
 using JsonWebTokenwithIdentity.Services;
@@ -6,6 +7,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+
 using System.Text;
 
 namespace JsonWebTokenwithIdentity.Extensions
@@ -18,7 +20,7 @@ namespace JsonWebTokenwithIdentity.Extensions
 
             var connectionString = config.GetConnectionString("con")?? throw new InvalidOperationException("connection string 'con' not found");
             services.AddDbContext<AppDbContext>(option => option.UseSqlServer(config.GetConnectionString("con")));
-            services.AddControllers();
+           
 
             //configure Session Options:
             services.AddDistributedMemoryCache();
@@ -29,15 +31,16 @@ namespace JsonWebTokenwithIdentity.Extensions
 
 
             services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
-
-
+            services.AddScoped<IDbInitializer, JsonWebTokenwithIdentity.DBIbitializer.DbInitializer>();
+            services.AddControllers();
             services.AddCors();
 
             //services:
             services.AddScoped<ITokenServices, TokenService>();
+         
 
             //Ensure the JWT is valid
-            var secretKey = config["AppSettings: TokenKey"];
+            var secretKey = config["AppSettings:TokenKey"];
             if (string.IsNullOrEmpty(secretKey))
             {
                 throw new ArgumentNullException("JWT secret token is missing from the configuration");

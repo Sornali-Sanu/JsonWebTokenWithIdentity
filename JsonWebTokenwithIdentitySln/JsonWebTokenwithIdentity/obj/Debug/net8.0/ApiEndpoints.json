@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "JsonWebTokenwithIdentity.Controllers.AccountsController",
+    "Method": "Login",
+    "RelativePath": "api/Accounts/LogIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "JsonWebTokenwithIdentity.Models.ViewModels.loginViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JsonWebTokenwithIdentity.Controllers.AccountsController",
+    "Method": "Register",
+    "RelativePath": "api/Accounts/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "JsonWebTokenwithIdentity.Models.ViewModels.RegisterViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "JsonWebTokenwithIdentity.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

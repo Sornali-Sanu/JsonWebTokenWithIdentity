@@ -5,6 +5,7 @@ using JsonWebTokenwithIdentity.Models.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace JsonWebTokenwithIdentity.Controllers
 {
@@ -35,7 +36,7 @@ namespace JsonWebTokenwithIdentity.Controllers
         [HttpPost("LogIn")]
         public async Task<ActionResult> Login([FromBody] loginViewModel model)
         {
-            if (ModelState.IsValid) {
+            if (!ModelState.IsValid) {
             return BadRequest(ModelState);
             }
             var user = await _userManager.FindByEmailAsync(model.Email);
@@ -56,7 +57,35 @@ namespace JsonWebTokenwithIdentity.Controllers
                 });
         }
 
-        
+        [HttpPost("register")]
+        public async Task<IActionResult> Register([FromBody] RegisterViewModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            //if user exists already
+            if (await _userManager.Users.AnyAsync(u => u.UserName == model.Email))
+            {
+                return BadRequest(new { message="the User Name is already Taken"});
+            }
+            //create new User
+            var user = new ApplicationUser
+            {
+                UserName=model.Email,
+                Email=model.Email,  
+                Name=model.Name,
+
+            };
+
+            var result = await _userManager.CreateAsync(user, model.Password);
+            if (!result.Succeeded)
+            {
+                return BadRequest(new { message="Invalid Email,User Name or Password"});
+            }
+            return Ok(new { message = "Registration successful for new User",UserName=user.UserName });
+
+        }
 
 
     }

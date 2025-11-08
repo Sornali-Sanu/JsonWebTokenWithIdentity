@@ -169,3 +169,5 @@ C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentit
 C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\obj\Debug\net8.0\JsonWebTokenwithIdentity.genruntimeconfig.cache
 C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\obj\Debug\net8.0\ref\JsonWebTokenwithIdentity.dll
 C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\obj\Debug\net8.0\JsonWebTokenwithIdentity.sourcelink.json
+C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASTROID\Desktop\Jwt\JsonWebTokenwithIdentitySln\JsonWebTokenwithIdentity\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll

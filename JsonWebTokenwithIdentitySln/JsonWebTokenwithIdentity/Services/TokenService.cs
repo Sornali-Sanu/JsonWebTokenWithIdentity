@@ -16,7 +16,7 @@ namespace JsonWebTokenwithIdentity.Services
         }
         public string CreateToken(ApplicationUser user)
         {
-            var secretKey = _config["AppSettings: TokenKey"];
+            var secretKey = _config["AppSettings:TokenKey"];
             if (string.IsNullOrEmpty(secretKey))
             {
                 throw new ArgumentNullException("The token is missing from the configuration");
