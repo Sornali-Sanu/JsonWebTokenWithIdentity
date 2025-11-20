@@ -37,8 +37,10 @@ using (var scope = app.Services.CreateScope())
     }
 
 app.UseHttpsRedirection();
+
 app.UseCors(
-	op => op.AllowAnyHeader().AllowAnyMethod().AllowCredentials().AllowCredentials().WithOrigins("https://localhost:7070"));
+	op => op.AllowAnyHeader().AllowAnyMethod().AllowCredentials().WithOrigins("https://localhost:7070"));
+
 app.UseSession();
 
 app.UseAuthorization();

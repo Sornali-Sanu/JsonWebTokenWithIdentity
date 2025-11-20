@@ -1,26 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\",
+  "WorkspaceRootPath": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\dbibitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\dbibitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\extensions\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\extensions\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\extensions\\applicationserviceextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\jsonwebtokenwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\jsonwebtokenwithidentity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\extensions\\rulebuilderextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\extensions\\rulebuilderextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\validation\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\validation\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|c:\\users\\astroid\\desktop\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\dbibitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\dbibitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|d:\\backup\\newwork\\jwt\\jwt\\jsonwebtokenwithidentitysln\\jsonwebtokenwithidentity\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3309347-0E9A-4157-9CC2-05DD4DCD9504}|JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj|solutionrelative:jsonwebtokenwithidentity\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +74,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "RuleBuilderExtention.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\RuleBuilderExtention.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Extensions\\RuleBuilderExtention.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\RuleBuilderExtention.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Extensions\\RuleBuilderExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:57:42.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Validation\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Validation\\RegisterRequestValidator.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Validation\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Validation\\RegisterRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:53:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T05:52:08.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:34:08.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginViewModel.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Models\\ViewModels\\loginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:34:01.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\Appointment.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:33:27.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Program.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Program.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:23:38.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonWebTokenwithIdentity.csproj",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\JsonWebTokenwithIdentity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T03:22:19.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:22:05.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T05:42:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\appsettings.json",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\appsettings.json",
+              "RelativeToolTip": "JsonWebTokenwithIdentity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T05:42:10.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAApwD0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,24 +234,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Services\\TokenService.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Services\\TokenService.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T05:12:22.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\DBIbitializer\\DbInitializer.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\DBIbitializer\\DbInitializer.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\DBIbitializer\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\DBIbitializer\\DbInitializer.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\DBIbitializer\\DbInitializer.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\DBIbitializer\\DbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,26 +260,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ApplicationServiceExtention.cs",
-              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
-              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Extensions\\ApplicationServiceExtention.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwCAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T05:02:03.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASTROID\\Desktop\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Backup\\newWork\\Jwt\\Jwt\\JsonWebTokenwithIdentitySln\\JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
               "RelativeToolTip": "JsonWebTokenwithIdentity\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T05:15:41.541Z",
               "EditorCaption": ""

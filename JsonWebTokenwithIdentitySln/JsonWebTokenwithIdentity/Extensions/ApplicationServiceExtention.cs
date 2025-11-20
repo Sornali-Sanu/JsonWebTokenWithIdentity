@@ -1,8 +1,12 @@
-﻿using JsonWebTokenwithIdentity.Data;
+﻿using FluentValidation;
+using FluentValidation.AspNetCore;
+using JsonWebTokenwithIdentity.Data;
 using JsonWebTokenwithIdentity.DBIbitializer;
 using JsonWebTokenwithIdentity.Interfaces;
 using JsonWebTokenwithIdentity.Models;
+using JsonWebTokenwithIdentity.Models.ViewModels;
 using JsonWebTokenwithIdentity.Services;
+using JsonWebTokenwithIdentity.Validation;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -24,15 +28,21 @@ namespace JsonWebTokenwithIdentity.Extensions
 
             //configure Session Options:
             services.AddDistributedMemoryCache();
+
             services.AddSession(options => { options.IdleTimeout = TimeSpan.FromMinutes(30);
+           
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
 
-
+            services.AddControllers();
+            services.AddFluentValidationAutoValidation();
+            services.AddFluentValidationClientsideAdapters();
+            services.AddValidatorsFromAssemblyContaining<RegisterRequestValidator>();
+            services.AddScoped<IValidator<RegisterViewModel>,RegisterRequestValidator>();
             services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
             services.AddScoped<IDbInitializer, JsonWebTokenwithIdentity.DBIbitializer.DbInitializer>();
-            services.AddControllers();
+            
             services.AddCors();
 
             //services:
